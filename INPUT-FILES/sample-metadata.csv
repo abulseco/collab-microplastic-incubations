@@ -1,0 +1,52 @@
+Sample_ID,Day,Sample_Type,Replicate
+SAM12Agga,12,Aggregate,a
+SAM12Aggb,12,Aggregate,b
+SAM12Aggc,12,Aggregate,c
+SAM12MPa,12,Microplastic ,a
+SAM12MPb,12,Microplastic ,b
+SAM12MPc,12,Microplastic ,c
+SAM12WW0.4a,12,Natural Particles,a
+SAM12WW0.4b,12,Natural Particles,b
+SAM12WW0.4c,12,Natural Particles,c
+SAM16Agga,16,Aggregate,a
+SAM16Aggb,16,Aggregate,b
+SAM16Aggc,16,Aggregate,c
+SAM16MPa,16,Microplastic ,a
+SAM16MPb,16,Microplastic ,b
+SAM16MPc,16,Microplastic ,c
+SAM16WW0.4a,16,Natural Particles,a
+SAM16WW0.4b,16,Natural Particles,b
+SAM16WW0.4c,16,Natural Particles,c
+SAM23MPa,23,Microplastic ,a
+SAM23MPb,23,Microplastic ,b
+SAM23MPc,23,Microplastic ,c
+SAM23WW0.4a,23,Natural Particles,a
+SAM23WW0.4b,23,Natural Particles,b
+SAM23WW0.4c,23,Natural Particles,c
+SAM2Agga,2,Aggregate,a
+SAM2Aggb,2,Aggregate,b
+SAM2Aggc,2,Aggregate,c
+SAM2MPa,2,Microplastic ,a
+SAM2MPb,2,Microplastic ,b
+SAM2MPc,2,Microplastic ,c
+SAM2WW0.4a,2,Natural Particles,a
+SAM2WW0.4b,2,Natural Particles,b
+SAM2WW0.4c,2,Natural Particles,c
+SAM5Agga,5,Aggregate,a
+SAM5Aggb,5,Aggregate,b
+SAM5Aggc,5,Aggregate,c
+SAM5MPa,5,Microplastic ,a
+SAM5MPb,5,Microplastic ,b
+SAM5MPc,5,Microplastic ,c
+SAM5WW0.4a,5,Natural Particles,a
+SAM5WW0.4b,5,Natural Particles,b
+SAM5WW0.4c,5,Natural Particles,c
+SAM9Agga,9,Aggregate,a
+SAM9Aggb,9,Aggregate,b
+SAM9MPa,9,Microplastic ,a
+SAM9MPb,9,Microplastic ,b
+SAM9MPc,9,Microplastic ,c
+SAM9WW0.4a,9,Natural Particles,a
+SAM9WW0.4b,9,Natural Particles,b
+SAM9WW0.4c,9,Natural Particles,c
+SAMBlank,END,Blank,Blank
